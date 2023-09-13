@@ -9,3 +9,5 @@
 **[5] so_long (C - Solo Project)** - https://github.com/mogullar/so_long
 
 **[6] push_swap (C - Solo Project)** - https://github.com/mogullar/push_swap
+
+**[7] minishell still working on it! (C - Group Project)** - https://github.com/mogullar/minishell
