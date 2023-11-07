@@ -10,4 +10,4 @@
 
 **[6] push_swap (C - Solo Project)** - https://github.com/mogullar/push_swap
 
-**[7] minishell still working on it! (C - Group Project)** - https://github.com/mogullar/minishell
+**[7] minishell (C - Group Project)** - https://github.com/mogullar/minishell
