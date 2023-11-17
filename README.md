@@ -12,4 +12,4 @@
 
 **[7] minishell (C - Group Project)** - https://github.com/mogullar/minishell
 
-**[7] Philosophers (C - Solo Project)** - https://github.com/mogullar/Philosophers
+**[7] Philosophers(Still working on it!!) (C - Solo Project)** - https://github.com/mogullar/Philosophers
